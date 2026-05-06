@@ -1,5 +1,8 @@
 # Lab 5 - Starter
 Name : Zhengyin Yang
+
+Lab partner: None
+
 - [Expose page](https://zhengyin666.github.io/Lab5_Starter/expose.html)
 - [Explore page](https://zhengyin666.github.io/Lab5_Starter/explore.html)
 
